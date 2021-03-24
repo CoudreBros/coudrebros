@@ -1,8 +1,6 @@
-cat > poolMetaData.json << EOF
 {
 "name": "Coudre Bros 1",
 "description": "Coudre Bros Cardano Pool 1",
 "ticker": "CB1",
 "homepage": "https://www.coudrebros.eu"
 }
-EOF
