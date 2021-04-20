@@ -1,0 +1,38 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://www.coudrebros.eu/couder.png",
+        "url_png_logo": "https://www.coudrebros.eu/couder.png",
+        "location": "Prague, Czech Republic",
+        "social": {
+            "twitter_handle": "Coudre Bros.",
+            "telegram_handle": "@CoudreBros",
+            "facebook_handle": "Coudre Bros",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "My family and my work as a healthcare professional - these are the most fulfilling things in my life.
+However my life wouldn't be complete without my hobbies - literature, music, yoga, bicycling, analogue photography...and many others. Since the 80's, when I shared Atari 800 XE with my brother, I'm interested in computers. During my life on student's dormitory in 00's I discovered the world of open source software and Linux and few years later this experience led me to discovery of cryptocurrencies.
+I see Cardano as the 3rd generation and ecologically sustainable cryptocurrency with a huge potential. I made some investments to ADA and right now I'm building a Cardano node (in cooperation with my brother).",
+            "server": "6 core CPU, 16 GB RAM, 1 TB SSD, 100 Mbit Ethernet, Ubuntu based OS, UPS backup",
+            "company": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735"
+    },
+    "telegram-admin-handle": {
+        "0": "mnmnmnmnnmn"
+    }
+}
