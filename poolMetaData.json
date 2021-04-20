@@ -2,6 +2,7 @@
 "name": "Coudre Bros 1",
 "description": "Coudre Bros Cardano Pool 1",
 "ticker": "CB1",
-"homepage": "https://www.coudrebros.eu" 
+"homepage": "https://www.coudrebros.eu", 
+"extended": "https://raw.githubusercontent.com/Couder82/coudrebros/main/extended_meta.json",
 }
 
