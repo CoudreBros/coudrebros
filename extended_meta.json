@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://www.coudrebros.eu/couder.png",
-        "url_png_logo": "https://www.coudrebros.eu/couder.png",
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
         "location": "Prague, Czech Republic",
         "social": {
             "twitter_handle": "Coudre Bros.",
@@ -21,9 +21,7 @@
             "vat_id": ""
         },
         "about": {
-            "me": "My family and my work as a healthcare professional - these are the most fulfilling things in my life.
-However my life wouldn't be complete without my hobbies - literature, music, yoga, bicycling, analogue photography...and many others. Since the 80's, when I shared Atari 800 XE with my brother, I'm interested in computers. During my life on student's dormitory in 00's I discovered the world of open source software and Linux and few years later this experience led me to discovery of cryptocurrencies.
-I see Cardano as the 3rd generation and ecologically sustainable cryptocurrency with a huge potential. I made some investments to ADA and right now I'm building a Cardano node (in cooperation with my brother).",
+            "me": "We are two brothers, that grew up in former Czechoslovakia (today Czech rep.). Since our first Atari computer in 80's, over the wild and free 90's, then over our pirate FM radio broadcasting in 2007, we are still enthusiastic in discovering new technologies.",
             "server": "6 core CPU, 16 GB RAM, 1 TB SSD, 100 Mbit Ethernet, Ubuntu based OS, UPS backup",
             "company": ""
         },
