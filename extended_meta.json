@@ -13,23 +13,21 @@
             "github_handle": ""
         },
         "company": {
-            "name": "",
+            "name": "Coudrebros",
             "addr": "",
-            "city": "",
-            "country": "",
+            "city": "Prague",
+            "country": "CZ",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": "We are two brothers, that grew up in former Czechoslovakia (today Czech rep.). Since our first Atari computer in 80's, over the wild and free 90's, then over our pirate FM radio broadcasting in 2007, we are still enthusiastic in discovering new technologies.",
+            "me": "Cardano single pool operated by two brothers.",
             "server": "6 core CPU, 16 GB RAM, 1 TB SSD, 100 Mbit Ethernet, Ubuntu based OS, UPS backup",
             "company": ""
         },
     "my-pool-ids": {
-        "0": "pool1wntxmftndrsj7y4aqles8knl3nfuyj22l83jun02yyx9s962gm3"
-    },
-    "telegram-admin-handle": {
-        "0": ""
+        "0": "pool1wntxmftndrsj7y4aqles8knl3nfuyj22l83jun02yyx9s962gm3",
+        "1": ""
+      }
     }
-  }     
 }
