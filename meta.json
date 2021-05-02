@@ -5,7 +5,7 @@
         "location": "Prague, Czech Republic",
         "social": {
             "twitter_handle": "BrosCoudre",
-            "telegram_handle": "@CoudreBros",
+            "telegram_handle": "CoudreBros",
             "facebook_handle": "coudrebros",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -27,7 +27,7 @@
         },
     "my-pool-ids": {
         "0": "pool1wntxmftndrsj7y4aqles8knl3nfuyj22l83jun02yyx9s962gm3",
-        "1": ""
+        "1": "74d66da57368e12f12bd07f303da7f8cd3c2494af9e32e4dea210c58"
       }
     }
 }
