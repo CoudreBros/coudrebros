@@ -1,4 +1,5 @@
 {
+    "verification":"2abf184a67e03f4fd9",
     "info": {
               "url_png_icon_64x64": "https://raw.githubusercontent.com/Couder82/coudrebros/main/CBROS_64_64.png",
               "url_png_logo": "https://raw.githubusercontent.com/Couder82/coudrebros/main/CBROS_1000_1000.png",
@@ -10,8 +11,7 @@
                             "youtube_handle": "",
                             "twitch_handle": "",
                             "discord_handle": "",
-                            "github_handle": "",
-                            "cexplorer": "2abf184a67e03f4fd9"
+                            "github_handle": ""
                           },
                 "company": {
                             "name": "Coudrebros",
